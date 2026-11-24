@@ -1,0 +1,12 @@
+{
+  "evaluation_size": 20,
+  "development_size": 100,
+  "category_count": 10,
+  "results": {
+    "keyword_baseline": 1.0,
+    "tfidf_cosine": 0.8,
+    "prompt_v1_mock": 0.9,
+    "prompt_v2_mock": 1.0
+  },
+  "interpretation": "All prompt_v1_mock and prompt_v2_mock results are deterministic local fixture/similarity results, not hosted LLM performance."
+}

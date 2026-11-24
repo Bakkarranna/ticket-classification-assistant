@@ -1,0 +1,12 @@
+{
+  "Account_Access": "Login, password reset, locked accounts, or multi-factor authentication problems. Example: I cannot sign in because my password is rejected.",
+  "Network_Connectivity": "Campus Wi-Fi, wired network, VPN, or internet connection problems. Example: My laptop disconnects from campus Wi-Fi.",
+  "Email_Services": "University email delivery, mailbox, spam, or configuration problems. Example: I cannot send mail from my student account.",
+  "Learning_Platform": "LMS/course portal access, submission, quiz, or course-page problems. Example: The LMS will not accept my assignment upload.",
+  "Student_Portal": "Student information portal, profile, enrollment, timetable, or fee-record display problems. Example: My registered courses are missing from the portal.",
+  "Software_Installation": "Installation, licensing, updating, or launching approved software. Example: MATLAB fails during installation.",
+  "Hardware_Device": "Physical computer, printer, projector, keyboard, or peripheral faults. Example: A lab PC will not power on.",
+  "Cybersecurity_Report": "Suspected phishing, malware, suspicious login, or security incidents. Example: I received a suspicious password-reset email.",
+  "Printing_Services": "Print queue, print credits, release station, or campus printer issues. Example: My document is stuck in the library printer queue.",
+  "Library_Tech_Services": "Library computers, digital library access, e-resources, or library account technology. Example: The e-journal database rejects my library login."
+}

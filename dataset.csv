@@ -1,0 +1,121 @@
+id,ticket,expected_category,split
+T001,I cannot log in to my university account; the password is rejected.,Account_Access,development
+T002,My account says it is locked after several sign-in attempts.,Account_Access,development
+T003,The password reset link for my student account has expired.,Account_Access,development
+T004,Multi-factor authentication is not sending a code to my phone.,Account_Access,development
+T005,I can sign in on my phone but not on my laptop.,Account_Access,development
+T006,The portal keeps returning me to the login screen.,Account_Access,development
+T007,My university username is not being recognized.,Account_Access,development
+T008,I changed my password but the old password still seems active.,Account_Access,development
+T009,The authentication app stopped generating valid codes.,Account_Access,development
+T010,I need help recovering access to my student account.,Account_Access,development
+T011,Campus Wi-Fi disconnects every few minutes in the hostel.,Network_Connectivity,development
+T012,My laptop connects to Wi-Fi but websites do not load.,Network_Connectivity,development
+T013,The wired network in the computer lab has no internet.,Network_Connectivity,development
+T014,The university VPN fails to establish a connection.,Network_Connectivity,development
+T015,Internet speed in the library is extremely slow.,Network_Connectivity,development
+T016,My phone cannot join the campus wireless network.,Network_Connectivity,development
+T017,The network connection drops whenever I move classrooms.,Network_Connectivity,development
+T018,The Ethernet port at my desk appears inactive.,Network_Connectivity,development
+T019,Wi-Fi says connected but there is no internet access.,Network_Connectivity,development
+T020,I cannot reach university websites while connected to campus Wi-Fi.,Network_Connectivity,development
+T021,Messages sent to my student email are bouncing back.,Email_Services,development
+T022,I can receive university email but cannot send messages.,Email_Services,development
+T023,My mailbox is full and new messages are not arriving.,Email_Services,development
+T024,Outlook keeps asking me to configure my university mailbox.,Email_Services,development
+T025,Emails from my lecturer are going into the spam folder.,Email_Services,development
+T026,My student email is not syncing on my mobile phone.,Email_Services,development
+T027,The webmail page shows an internal server error.,Email_Services,development
+T028,I cannot attach files when composing university email.,Email_Services,development
+T029,Some messages arrive several hours late in my inbox.,Email_Services,development
+T030,My email signature disappeared after the mailbox update.,Email_Services,development
+T031,The LMS will not accept my assignment PDF upload.,Learning_Platform,development
+T032,I cannot open the quiz page for my course.,Learning_Platform,development
+T033,My course page is missing from the learning platform.,Learning_Platform,development
+T034,The lecture recording link returns a playback error.,Learning_Platform,development
+T035,My submitted assignment is not visible in the LMS.,Learning_Platform,development
+T036,The learning portal logs me out during an online quiz.,Learning_Platform,development
+T037,I cannot download lecture slides from the course page.,Learning_Platform,development
+T038,The LMS displays a blank page when I open grades.,Learning_Platform,development
+T039,The assignment submission button is disabled.,Learning_Platform,development
+T040,My instructor says the course site is unavailable.,Learning_Platform,development
+T041,My registered courses are missing from the student portal.,Student_Portal,development
+T042,The timetable page shows the wrong class section.,Student_Portal,development
+T043,My fee payment is not reflected in the student record.,Student_Portal,development
+T044,I cannot update my contact details in the portal.,Student_Portal,development
+T045,The enrollment page gives an error after I select courses.,Student_Portal,development
+T046,My semester result is not appearing on the portal.,Student_Portal,development
+T047,The student profile displays an incorrect department.,Student_Portal,development
+T048,I cannot download my fee challan from the portal.,Student_Portal,development
+T049,My attendance record is not loading in the student portal.,Student_Portal,development
+T050,The portal shows an outdated registration status.,Student_Portal,development
+T051,MATLAB fails with an error during installation on my lab PC.,Software_Installation,development
+T052,I need help activating the university Microsoft Office license.,Software_Installation,development
+T053,Python will not launch after the latest software update.,Software_Installation,development
+T054,The approved antivirus installer stops before completion.,Software_Installation,development
+T055,Visual Studio Code reports a missing installation component.,Software_Installation,development
+T056,I cannot install the statistical package provided by the department.,Software_Installation,development
+T057,The software license says it has expired unexpectedly.,Software_Installation,development
+T058,The installer closes before the setup is complete.,Software_Installation,development
+T059,An approved application crashes immediately after opening.,Software_Installation,development
+T060,I need the correct installer for the university lab software.,Software_Installation,development
+T061,The desktop computer in Lab 2 will not power on.,Hardware_Device,development
+T062,My keyboard types random characters on the lab computer.,Hardware_Device,development
+T063,The classroom projector displays no picture.,Hardware_Device,development
+T064,The monitor flickers when the computer starts.,Hardware_Device,development
+T065,My laptop charging port feels loose and does not charge.,Hardware_Device,development
+T066,The mouse connected to my workstation is not responding.,Hardware_Device,development
+T067,The computer makes a loud fan noise and shuts down.,Hardware_Device,development
+T068,A USB port on the lab desktop does not detect devices.,Hardware_Device,development
+T069,The scanner in the department office is not responding.,Hardware_Device,development
+T070,The lab PC screen remains black after startup.,Hardware_Device,development
+T071,I received an email asking me to verify my password through a strange link.,Cybersecurity_Report,development
+T072,My antivirus detected malware on a university computer.,Cybersecurity_Report,development
+T073,There was an unfamiliar login notification on my student account.,Cybersecurity_Report,development
+T074,A message pretending to be IT support asks for my password.,Cybersecurity_Report,development
+T075,My browser opened a suspicious pop-up after downloading a file.,Cybersecurity_Report,development
+T076,I think my university account may have been compromised.,Cybersecurity_Report,development
+T077,A USB drive triggered a security warning on the lab PC.,Cybersecurity_Report,development
+T078,I received an unexpected multi-factor approval request.,Cybersecurity_Report,development
+T079,A website is impersonating the university login page.,Cybersecurity_Report,development
+T080,My computer is showing a ransomware warning.,Cybersecurity_Report,development
+T081,My document is stuck in the library printer queue.,Printing_Services,development
+T082,The campus printer prints blank pages.,Printing_Services,development
+T083,My print credits disappeared from the student account.,Printing_Services,development
+T084,The printer release station cannot find my submitted job.,Printing_Services,development
+T085,I get a paper jam error at the department printer.,Printing_Services,development
+T086,The printer is showing offline even though it is powered on.,Printing_Services,development
+T087,My pages are printing with missing lines and faded text.,Printing_Services,development
+T088,I cannot upload a PDF to the campus print service.,Printing_Services,development
+T089,The printer charged my account but did not print.,Printing_Services,development
+T090,The library printer keeps cancelling my print jobs.,Printing_Services,development
+T091,The digital library database rejects my library login.,Library_Tech_Services,development
+T092,I cannot access an e-journal from the university library site.,Library_Tech_Services,development
+T093,The library computer freezes when I open the catalog.,Library_Tech_Services,development
+T094,My off-campus access to online books is not working.,Library_Tech_Services,development
+T095,The library search system returns an error for every query.,Library_Tech_Services,development
+T096,I cannot download a research paper from the e-resources portal.,Library_Tech_Services,development
+T097,The library workstation will not open the catalog application.,Library_Tech_Services,development
+T098,My library account cannot access the subscribed databases.,Library_Tech_Services,development
+T099,The online library catalogue is unavailable this morning.,Library_Tech_Services,development
+T100,The e-book reader on the library website does not load.,Library_Tech_Services,development
+T101,My student login is blocked and the reset process will not let me continue.,Account_Access,eval
+T102,The verification code for signing in never reaches my registered device.,Account_Access,eval
+T103,The campus wireless network shows connected but every site times out.,Network_Connectivity,eval
+T104,I cannot connect to the university VPN from home.,Network_Connectivity,eval
+T105,My university mailbox stopped synchronizing with the mail app.,Email_Services,eval
+T106,Outgoing messages from my student address are being rejected.,Email_Services,eval
+T107,The course LMS marks my uploaded coursework as missing.,Learning_Platform,eval
+T108,The online test page crashes when I try to begin the quiz.,Learning_Platform,eval
+T109,My semester registration is not displayed in the student information system.,Student_Portal,eval
+T110,The portal has the wrong timetable for my enrolled section.,Student_Portal,eval
+T111,The campus-licensed statistics program fails to install.,Software_Installation,eval
+T112,An approved desktop application asks for a license key and will not start.,Software_Installation,eval
+T113,The keyboard on the classroom workstation is not working.,Hardware_Device,eval
+T114,The projector in the lecture room powers on but shows a blank screen.,Hardware_Device,eval
+T115,A fake university helpdesk message is requesting my account credentials.,Cybersecurity_Report,eval
+T116,I got a sign-in approval alert that I did not initiate.,Cybersecurity_Report,eval
+T117,The print station deducted my balance but no pages came out.,Printing_Services,eval
+T118,My job remains pending in the department printer queue.,Printing_Services,eval
+T119,The subscribed academic journal site cannot verify my library access.,Library_Tech_Services,eval
+T120,The library catalogue application freezes when I search.,Library_Tech_Services,eval

@@ -1,0 +1,14 @@
+### Health check
+GET http://127.0.0.1:8000/health
+
+### Valid request
+POST http://127.0.0.1:8000/analyze
+Content-Type: application/json
+
+{"ticket":"I cannot connect to campus Wi-Fi from my laptop.","prompt_version":"v2"}
+
+### Blank request (expect 422)
+POST http://127.0.0.1:8000/analyze
+Content-Type: application/json
+
+{"ticket":"   "}
